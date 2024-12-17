@@ -39,4 +39,3 @@ game_over = False
 
 # Function to check for Collision
 def check_collision(t_rex_rect, obstacle_rect):
-    
