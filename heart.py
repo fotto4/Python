@@ -7,7 +7,7 @@ wn.title("Schnell entstehendes Herz")
 
 # Turtle konfigurieren
 pen = turtle.Turtle()
-pen.speed(1)  # Zeichengeschwindigkeit
+pen.speed(2)  # Zeichengeschwindigkeit
 pen.color("red")
 pen.width(2)
 
