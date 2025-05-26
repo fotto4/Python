@@ -16,7 +16,7 @@ def draw_heart():
     pen.penup()
     pen.goto(0, -200)
     pen.pendown()
-    pen.left(140)
+    pen.left(120)
     pen.begin_fill()
 
     # Linke Seite des Herzens
