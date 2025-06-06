@@ -54,7 +54,7 @@ try:
     
     # Jumping variables
     is_jumping = False
-    jump_height = 15
+    jump_height = 100
     jump_velocity = jump_height
     gravity = 1
     
